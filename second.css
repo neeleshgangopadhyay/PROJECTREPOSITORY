@@ -1,0 +1,102 @@
+*{
+	
+	font-family:sans-seriff;
+	background: aqua;
+	
+	
+	
+}
+
+
+.one{
+	
+	position: static;
+	width:2080px;
+	height:580px;
+	padding:50px;
+	padding-right:50px;
+	
+	
+	
+	
+}
+.rosi{
+	
+	width:380px;
+	height:480px;
+	right:50px;
+	position:absolute;
+	margin:6% auto;
+	background:#fff;
+	padding:20px;
+	border:5px solid;
+	overflow: hidden;
+	
+	
+	
+	
+	
+}
+.cosi
+{
+	width:380px;
+	height:480px;
+	position:absolute;
+	right:545px;
+	margin:6% auto;
+	border:5px solid;
+	background: #fff;
+	padding:20px;
+	overflow: hidden;
+}
+.posi{
+	
+	width:380px;
+	height:480px;
+	position:absolute;
+	margin:6% auto;
+	background: #fff;
+	border:5px solid;
+	padding:20px;
+	overflow: hidden;
+}
+.submit-btn
+{
+	
+	width:85%;
+	padding:10px 30px;
+	cursor:pointer;
+	display:block;
+	margin: auto;
+	background:linear-gradient(to right,#ff105f,#ffad06);
+	border:0;
+	outline:none;
+	border-radius:0px;
+	
+	
+	
+}
+.img-icon
+{
+margin:100px;
+text-align:center;
+background:#fff;
+	
+	
+}
+.img-icon img
+{
+	
+	width:110px;
+	margin:0px 18px;
+	box-shadow:0 0 20px 0 #7f7f7f3d;
+	cursor:pointer;
+	border-radius: 40%;
+	border: solid 5px;
+	border-image: url(aaa.png,doctor.png)30 round;
+}
+.desc{
+	
+background:#fff;
+text-align:center;	
+}
